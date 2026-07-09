@@ -45,7 +45,7 @@ public class BorrowerController {
         } catch (NullPointerException | IllegalArgumentException e) {
             log.warn(e.getMessage(), e);
             responseBody.setStatus(e.getMessage());
-            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(responseBody);
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(responseBody);
         } catch
         (Exception e) {
             log.error(e.getMessage(), e);
@@ -64,7 +64,7 @@ public class BorrowerController {
         } catch (NullPointerException | IllegalArgumentException e) {
             log.warn(e.getMessage(), e);
             responseBody.setStatus(e.getMessage());
-            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(responseBody);
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(responseBody);
         } catch (Exception e) {
             log.error(e.getMessage(), e);
             responseBody.setStatus("Something went wrong!!");
