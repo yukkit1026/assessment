@@ -90,7 +90,7 @@
        ```
 
 # Database (Postgres)
-1) <b>tb_book</b>
+1) <b>tb_borrower</b>
     - id | name | email_address
-2) <b>tb_borrower</b>
+2) <b>tb_book</b>
     - id | isbn_number | author | title | date_borrowed | date_returned
