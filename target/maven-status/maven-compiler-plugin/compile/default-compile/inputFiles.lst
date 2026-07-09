@@ -1,0 +1,12 @@
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/AssessmentApplication.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/controller/BookController.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/controller/BorrowerController.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/model/dto/BookListResponseBody.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/model/dto/NewBookRequstBody.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/model/dto/NewBorrowerRequstBody.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/model/dto/ReturnBookRequestBody.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/model/entity/Book.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/model/entity/Borrower.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/model/repository/BorrowerRepository.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/model/service/LibraryService.java
+/home/user/Desktop/Project/Assessment/src/main/java/org/example/assessment/model/validator/GeneralValidator.java

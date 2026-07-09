@@ -1,0 +1,12 @@
+org/example/assessment/AssessmentApplication.class
+org/example/assessment/model/entity/Borrower.class
+org/example/assessment/model/dto/NewBookRequstBody.class
+org/example/assessment/model/entity/Book.class
+org/example/assessment/model/repository/BorrowerRepository.class
+org/example/assessment/controller/BookController.class
+org/example/assessment/model/service/LibraryService.class
+org/example/assessment/controller/BorrowerController.class
+org/example/assessment/model/dto/NewBorrowerRequstBody.class
+org/example/assessment/model/dto/BookListResponseBody.class
+org/example/assessment/model/dto/ReturnBookRequestBody.class
+org/example/assessment/model/validator/GeneralValidator.class
