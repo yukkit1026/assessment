@@ -93,4 +93,4 @@
 1) <b>tb_book</b>
     - id | name | email_address
 2) <b>tb_borrower</b>
-    - id | isbn_number | author | title
+    - id | isbn_number | author | title | date_borrowed | date_returned
